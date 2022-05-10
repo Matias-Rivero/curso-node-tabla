@@ -16,4 +16,4 @@ crearArchivo(argv.b,argv.l,argv.h)
   // git init
   // git add .
   // git commit -m "Primer commit"
-  // volver ultima version -- git checkout -- .
+  // volver ultima version / git checkout -- .
