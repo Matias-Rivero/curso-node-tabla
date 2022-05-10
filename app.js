@@ -17,3 +17,4 @@ crearArchivo(argv.b,argv.l,argv.h)
   // git add .
   // git commit -m "Primer commit"
   // volver ultima version / git checkout -- .
+  // View -- Command palette -- Markdown: Open preview -- visor de archivos markdown
