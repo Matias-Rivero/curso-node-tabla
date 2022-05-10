@@ -12,3 +12,8 @@ crearArchivo(argv.b,argv.l,argv.h)
   .catch((err) => console.log(err));
 
   // node modules se vuelve a crear con la info del package json
+  // npm install
+  // git init
+  // git add .
+  // git commit -m "Primer commit"
+  // volver ultima version -- git checkout -- .
